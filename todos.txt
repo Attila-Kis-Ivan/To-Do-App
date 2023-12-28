@@ -1,0 +1,6 @@
+prepare
+fix
+meetgreeting
+cut
+cut
+washing
