@@ -1,7 +1,8 @@
 prepare
-fix
-meetgreeting
-cut
-cut
+Clean the code
+buy a car
+order
 washing
 roast chicken
+My newest todo
+add lastly
