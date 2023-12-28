@@ -1,8 +1,4 @@
-prepare
-Clean the code
-buy a car
-order
-washing
-roast chicken
-My newest todo
-add lastly
+Buy a car
+Clean the house
+Buy grocery
+
